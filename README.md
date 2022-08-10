@@ -12,7 +12,7 @@ I'm an aspiring Software Engineer, studying to specialize in Cloud Engineering a
 - 🌱 I’m currently learning JavaScript, Nodejs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Support Engineer,Devops Enginner (Intern or Junior level).
-- 📫 Email: Zubis101@gmail.com
+- 📫 Email: zubis101@gmail.com
 - Mobile: +2349079589944
 ---
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=IamZubis&show_icons=true&include_all_commits=true&hide_border=true" alt="Zubis' GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamZubis&langs_count=8&layout=compact&hide_border=true" alt="Zubis' GitHub stats" /> |
