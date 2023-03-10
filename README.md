@@ -9,7 +9,7 @@ I'm an aspiring Software Engineer, studying to specialize in Cloud Engineering a
 - Fullname: Osuji, Azubuike Victor
 - Alias 😊: Zubis 
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 & ALX [Holberton Software Engineering Program](https://alx-intranet.hbtn.io/).
-- 🌱 I’m currently learning JavaScript, Nodejs, and Python.
+- 🌱 I’m currently learning JavaScript,Python, Cloud Technology and Devops.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Support Engineer,Devops Enginner (Intern or Junior level).
 - 📫 Email: zubis101@gmail.com
